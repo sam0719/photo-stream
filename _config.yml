@@ -27,7 +27,7 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
     cat
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://maxvoltar.photo/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sam0719.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
 instagram_username:
